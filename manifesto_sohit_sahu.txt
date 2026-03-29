@@ -1,0 +1,8 @@
+
+Open Source Manifesto
+Date: 29 March 2026
+
+I use python every day, and it reminds me that software should not be restricted.
+For me, freedom means learning — the ability to learn, modify, and share knowledge.
+If given the opportunity, I would build AI-based learning platform and make it open for everyone.
+I believe in contributing to the open-source community and building technology that benefits all.
